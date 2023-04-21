@@ -6,7 +6,6 @@ export default function aboutUsPage() {
             <div className={styles.highlight}>
                 <p>This is About Page</p>
             </div>
-
             <button className='btn btn-primary'>primary</button>
         </>
     )
